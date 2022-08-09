@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83577848793",
+    "project_id": "beresin-uas",
+    "storage_bucket": "beresin-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83577848793:android:aab324f8c1edc3c0d68fc8",
+        "android_client_info": {
+          "package_name": "com.example.beresin_uas_10119120"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83577848793-00ffo24jmh1lel625rruelmqk133718s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwGDNfU-0aZ6g6baHly4YLa_6aFV4OQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83577848793-00ffo24jmh1lel625rruelmqk133718s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
